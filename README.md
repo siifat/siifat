@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Sifat! 👋
 
-<!--
-**siifat/siifat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate learner of Microsoft 365 development. I’m currently exploring:
 
-Here are some ideas to get you started:
+- Microsoft Teams app development
+- Microsoft Graph API
+- Power Automate & SharePoint integration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 My goal is to teach others, including my mom, how to build cool stuff with Microsoft tools — all for the love of IT!
+
+📬 I joined the Microsoft 365 Developer Program and plan to share my journey here.
+
+Stay tuned! 🌟
